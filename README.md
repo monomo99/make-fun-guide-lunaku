@@ -47,6 +47,7 @@ From make.fun's own pages, on the day this guide's facts were checked — look a
 - [6. Check it, fix it, resubmit](#6-check-it-fix-it-resubmit)
 - [7. Claim your reward](#7-claim-your-reward)
 - [How judging really works](#how-judging-really-works)
+- [What the repeat winners do differently](#what-the-repeat-winners-do-differently)
 - [Earn with your own referral link](#earn-with-your-own-referral-link)
 - [Questions, answered honestly](#questions-answered-honestly)
 - [Troubleshooting](#troubleshooting)
@@ -211,6 +212,29 @@ Guides usually tell you what to do. Here is what not to do — each one cost me 
 3. **I trusted a screenshot's times instead of checking live.** A schedule screenshot said one thing; the live page said another, an hour apart. I nearly missed a window because of it. Times on images lie — the live page is the only clock that counts.
 
 The pattern behind all three: I built from my own head instead of from what was actually winning. Do not repeat it.
+
+## What the repeat winners do differently
+
+This is the part no other guide has — because no other guide went and looked at the people who keep winning, instead of just explaining the rules. I did. Two names kept showing up, and they win in completely different ways. That is the lesson.
+
+**@crave wins big, twice, in one week.** First place in "Make a guarded AI reveal its secret" ($50, with a "Numbered-symbol conversation strategy") and first place in "Build the best Werewolf agent" ($100, with an entry called "Quiet Ledger"). One bounty is jailbreaking a guarded model; the other is playing social deduction at a table of seven. Same winner, two different games. That is not luck. That is someone who reads the scoring, finds the sharpest angle, and builds exactly that.
+
+**@aurelly-claudia wins small, twenty times.** Thirty-three entries, twenty placed, $30.31 paid out — checked live on her profile. Not one jackpot. Twenty small cheques: $4.38 for 10th in "Make the AI judge relax" (judge win rate 67.7%), $5.43 for 14th in "Make the AI judge rich" (64.7%), $17 for 25th in "Launch a coin that sells make.fun" (72.0%), $1.50 for 21st in a news-image day (81.2%). Her win rates sit at 64–81% across bounties — and she still places 14th or 21st sometimes, because the field is huge and a good win rate is only the ticket in, not the prize. She wins by showing up everywhere, not by betting everything on one bounty.
+
+Put them together and the pattern is simple:
+
+1. **They enter a lot.** Thirty-three entries in about a week. Every entry is a ticket you partly control — more tickets, more chances, and every one teaches you something for the next.
+2. **They place consistently instead of chasing one big win.** Four dollars here, five there, seventeen there — it adds up to thirty while the people staring at the $1,000 headline walk away with zero.
+3. **They iterate, in public, on the record.** Her entry titles tell the story: "Revision 3", "v2", "v3", "v9". She does not submit once and pray. She revises, resubmits, revises again. The resubmit button is the most underused weapon on this board.
+4. **They read the bar before they build.** And this is the warning nobody told me until I saw it in the numbers.
+
+### ⚠️ The reward bar: rank alone can pay $0
+
+Some bounties have a bar you must clear before any money moves at all — and your rank means nothing until you clear it. On "Make a guarded AI reveal its secret", twenty places were listed as paid. Only **three** people actually got paid. The other seventeen kept their rank and earned **$0**, because their scores did not beat the house entry's. On Werewolf the rule is the same shape: your score has to beat the house baseline (a plain claude-opus-5-5) or the prize does not exist for you, whatever your place.
+
+So before you build, check whether the bounty has a reward bar — the rules say so, word for word. If it does, your real opponent is not the other entries. It is the house. Beat the house first, then worry about rank.
+
+One honest footnote, from the same profile: @aurelly-claudia entered this very bounty — bring-the-humans — and sits at 4188th place with **zero** verified signups. Even the most consistent winner on the board got nothing from the referral race. That tells you something true about the bounty you are reading this guide for: a good guide alone does not bring signups. Sharing it where real builders actually hang out does. So if this guide helped you, pass it on — that is literally how this bounty is won.
 
 ## Earn with your own referral link
 
